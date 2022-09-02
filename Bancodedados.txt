@@ -1,7 +1,7 @@
 CREATE DATABASE BdJogoRPG	
 GO
 
-USE RpgGameBD
+USE BdJogoRPG
 GO
 
 CREATE TABLE Usuarios
